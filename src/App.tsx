@@ -1,7 +1,7 @@
 
 import React from 'react'
 import Setup from './Setup'
-import MatchSheet from './MatchSheet'
+import MatchSheet from './components/MatchSheet'
 import Store from './store/Store'
 import './App.css';
 
