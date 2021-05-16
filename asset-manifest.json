@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/inouehai/static/css/main.22b6e383.chunk.css",
-    "main.js": "/inouehai/static/js/main.5775bfe9.chunk.js",
-    "main.js.map": "/inouehai/static/js/main.5775bfe9.chunk.js.map",
+    "main.js": "/inouehai/static/js/main.231e5d2c.chunk.js",
+    "main.js.map": "/inouehai/static/js/main.231e5d2c.chunk.js.map",
     "runtime-main.js": "/inouehai/static/js/runtime-main.8b205b18.js",
     "runtime-main.js.map": "/inouehai/static/js/runtime-main.8b205b18.js.map",
-    "static/js/2.5e7ce541.chunk.js": "/inouehai/static/js/2.5e7ce541.chunk.js",
-    "static/js/2.5e7ce541.chunk.js.map": "/inouehai/static/js/2.5e7ce541.chunk.js.map",
+    "static/js/2.c2fcec1b.chunk.js": "/inouehai/static/js/2.c2fcec1b.chunk.js",
+    "static/js/2.c2fcec1b.chunk.js.map": "/inouehai/static/js/2.c2fcec1b.chunk.js.map",
     "index.html": "/inouehai/index.html",
     "static/css/main.22b6e383.chunk.css.map": "/inouehai/static/css/main.22b6e383.chunk.css.map",
-    "static/js/2.5e7ce541.chunk.js.LICENSE.txt": "/inouehai/static/js/2.5e7ce541.chunk.js.LICENSE.txt"
+    "static/js/2.c2fcec1b.chunk.js.LICENSE.txt": "/inouehai/static/js/2.c2fcec1b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8b205b18.js",
-    "static/js/2.5e7ce541.chunk.js",
+    "static/js/2.c2fcec1b.chunk.js",
     "static/css/main.22b6e383.chunk.css",
-    "static/js/main.5775bfe9.chunk.js"
+    "static/js/main.231e5d2c.chunk.js"
   ]
 }
