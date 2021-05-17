@@ -11,7 +11,7 @@ function App() {
     <Store>
       <div className="container">
         <div className="row align-items-center justify-content-center">          
-          <div className="col-6">
+          <div className="sm-12 md-8 lg-6">
             <h1>Inoue Hai Kihon Competition</h1>            
             <MatchSheet />
           </div> 
