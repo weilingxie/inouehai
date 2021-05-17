@@ -30,7 +30,7 @@
     {
         "id": 3,
         "team1":{
-            "name":"B",
+            "name":"D",
             "color":"red"
         },
         "team2":{
@@ -44,11 +44,11 @@
     {
         "id": 4,
         "team1":{
-            "name":"C",
+            "name":"D",
             "color":"red"
         },
         "team2":{
-            "name":"D",
+            "name":"E",
             "color":"white"
         },
         "suburi":"",
@@ -58,25 +58,11 @@
     {
         "id": 5,
         "team1":{
-            "name":"E",
-            "color":"red"
-        },
-        "team2":{
-            "name":"D",
-            "color":"white"
-        },
-        "suburi":"",
-        "kihon":"",
-        "kata":""
-    },
-    {
-        "id": 6,
-        "team1":{
-            "name":"E",
-            "color":"red"
-        },
-        "team2":{
             "name":"B",
+            "color":"red"
+        },
+        "team2":{
+            "name":"E",
             "color":"white"
         },
         "suburi":"",
