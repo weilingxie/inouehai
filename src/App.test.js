@@ -1,8 +1,13 @@
-import { render, screen } from '@testing-library/react';
+import React from 'react';
 import App from './App';
+import { shallow } from 'enzyme';
+import toJson from 'enzyme-to-json';
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+
+describe('App',()=>{
+    test('render without crashing', () => {
+    const wrapper =  shallow(<App />);
+    expect(toJson(wrapper)).toMatchSnapshot();
+  });
 });
+
