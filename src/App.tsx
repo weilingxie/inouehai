@@ -74,7 +74,8 @@ function App() {
           <div className="sm-12 md-8 lg-6">
             <h1>Inoue Hai Kihon Competition</h1>
             <ScoreBoard score={score} />
-            <hr />
+            <br />
+            <br />
             <MatchSheet fights={fights} setResult={setResult} resetResult={resetResult} changeColor={changeColor}  />
           </div> 
         </div>

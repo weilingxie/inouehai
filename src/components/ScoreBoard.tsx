@@ -28,8 +28,7 @@ const ScoreBoard = ({ score } : ScoreBoardProps) => {
                         ))                                                                                 
                     }
                 </tbody>
-            </table>
-            <hr />            
+            </table>         
         </div>
     );
 }
